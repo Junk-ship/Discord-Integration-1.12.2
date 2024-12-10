@@ -1,23 +1,12 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
-
 ### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+
+    Send chat messages from discord to minecraft and back
+    /discord command which sends an invite url to the sender
+    Webhook mode
+    Commands
+    Server crash detection (might not always work!, forge only)
+    Player timeout detection (might not always work!, forge only)
+    Death and advancement messages
+    API for mod developers to send messages and register commands
+    Discord <-> Minecraft account linking (with whitelist mode)
+    Dynmap Integration
